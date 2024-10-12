@@ -1,2 +1,2 @@
-# laravel-herd-test
+# Laravel Herd Test
 Materials for creating a Laravel Herd review video
